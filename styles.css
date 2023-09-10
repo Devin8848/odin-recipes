@@ -1,0 +1,58 @@
+
+*{
+    background-color: antiquewhite;
+    font-size: 32px;
+    text-align: center;
+
+}
+
+#name{
+    text-align: center;
+}
+
+#title{
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+
+.minititle{
+    color: darkolivegreen;
+    font-size: 40px;
+}
+
+.ingredients,
+.steps,
+li{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+#cal{
+    color: darkslateblue;
+}
+
+#back{
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: brown;
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#taunt{
+    text-transform: capitalize;
+    color: darkolivegreen;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
